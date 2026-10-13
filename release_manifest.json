@@ -15502,8 +15502,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10924,
-      "sha256": "d2a4e2db8bd47d93d452bbb2c5d46abce77cd98b5611685182da2867aa7551a8"
+      "bytes": 11168,
+      "sha256": "6bf9219fcf45a715f6b6bac8fa5fb2dfdcb1fdbedbc14a713aaedd9d07fe2dd5"
     },
     {
       "path": "requirements.txt",
@@ -15561,24 +15561,29 @@
       "sha256": "66b6d5778e36da730df68d81bbbb1b6da5d6bb4eee3d7ab08258d918e75128a9"
     },
     {
+      "path": "scripts/sanitize_office.py",
+      "bytes": 3051,
+      "sha256": "0acb48bc583f3caac8746af824bee952004787449fd9112037adf1bca0a38ad8"
+    },
+    {
       "path": "scripts/validate_release.py",
       "bytes": 3599,
       "sha256": "b227754e90e8e2c39bd7612c8223306640a94f316e5abead6431e3f22d781095"
     },
     {
       "path": "standards/hotel_limits.xlsx",
-      "bytes": 12965,
-      "sha256": "723f2b3a012d8319cfc609b8b4da3f6e8ad2a4c4b6a800f0b824cd329296831e"
+      "bytes": 11269,
+      "sha256": "20ebebec4dad91c325447ac15828621e422fae7c2a2a4eae4c4c41b5a3fdb06e"
     },
     {
       "path": "standards/reimbursement_form_template.xlsx",
-      "bytes": 12613,
-      "sha256": "2601091070707a7797b3d9a19af06e96530b212a8fcb8092421e7c1ac60c12e4"
+      "bytes": 11109,
+      "sha256": "d27ffadf96ad45a8534de40ded4a5a123381037b1b544d0e3cc07a4b878b567f"
     },
     {
       "path": "standards/reimbursement_policy.docx",
-      "bytes": 18694,
-      "sha256": "db4a3eacf214c13f73a3789565d78aa726abe6d356632751ba3cef8286d7054d"
+      "bytes": 15829,
+      "sha256": "489ccd8e060f627fba9fd2dff7859294dd2068859d959aa7268814097aff3e30"
     },
     {
       "path": "standards/standards_context.txt",

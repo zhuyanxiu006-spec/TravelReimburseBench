@@ -79,6 +79,8 @@ python -m pip install -r requirements.txt
 
 On Windows, `py -3.10` can replace `python`. The release validator checks all 540 case IDs, the scenario/action balance, PNG-only layout, image dimensions and manifest SHA256 checksums. After intentionally changing files, `--skip-hashes` checks only corpus structure. The prompt validator checks prompt schemas against frozen GT; it does not validate arbitrary model responses.
 
+The distributed Office documents have identifying core properties and WPS account metadata removed. `python scripts/sanitize_office.py` cleans such properties after editing Office files while preserving every non-property archive part. It does not anonymize GitHub account names, commit history or document body text. Any intentional changes require updating the release checksum manifest.
+
 ## Inference
 
 First check paths and output writing without calling an API:
