@@ -1,0 +1,4 @@
+# Python >= 3.10. Inference, evaluation and release validation use stdlib only.
+# Optional helpers: regenerate standards text or build readable GT views.
+openpyxl>=3.1,<4
+python-docx>=1.1,<2

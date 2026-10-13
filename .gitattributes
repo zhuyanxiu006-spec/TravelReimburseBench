@@ -1,0 +1,5 @@
+# Preserve manifest checksums across platforms (including all newlines).
+* -text
+*.png binary
+*.xlsx binary
+*.docx binary
